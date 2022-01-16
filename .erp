@@ -3,9 +3,9 @@
   <showSceneName>true</showSceneName>
   <showProjectName>true</showProjectName>
   <resetOnSceneChange>false</resetOnSceneChange>
-  <debugMode>false</debugMode>
+  <debugMode>true</debugMode>
   <EditorClosed>true</EditorClosed>
-  <LastTimestamp>1642238477</LastTimestamp>
-  <LastSessionID>2713540700042506815</LastSessionID>
-  <Errored>true</Errored>
+  <LastTimestamp>1642332373</LastTimestamp>
+  <LastSessionID>271805027904762388</LastSessionID>
+  <Errored>false</Errored>
 </ERPSettings>
